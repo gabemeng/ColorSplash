@@ -1,2 +1,2 @@
 # WorldGenerator
-built on top off school project
+Coloforful tile based game
